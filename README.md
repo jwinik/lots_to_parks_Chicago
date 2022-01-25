@@ -1,4 +1,4 @@
-## Assessing Vacant Lot Eligibility for Greenspace
+## Assessing Vacant Lot Eligibility for Green Space
 ### Data and Programming for Public Policy II
 Final Project: Autumn 2021
 This project was built in collaboration with [Isabelle Hirschy](http://isabellehirschy.com/) and [Kashif Ahmed](https://github.com/kashifahmed2?tab=repositories).
