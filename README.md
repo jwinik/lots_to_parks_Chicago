@@ -1,7 +1,7 @@
 ## Assessing Vacant Lot Eligibility for Greenspace
 ### Data and Programming for Public Policy II
 Final Project: Autumn 2021
-This project was built in collaboration with [Isabelle Hirschy](http://isabellehirschy.com/) and [Kashif Ahmed](https://github.com/kashifahmed2?tab=repositories)
+This project was built in collaboration with [Isabelle Hirschy](http://isabellehirschy.com/) and [Kashif Ahmed](https://github.com/kashifahmed2?tab=repositories).
 
 
 ### Project Description:
@@ -9,8 +9,8 @@ Vacant lots are a persistent problem in the city of Chicago. The City holds thou
 
 ## Data
 In order to determine which vacant lots would be most suitable for turninginto green-space, we looked at the following variables that could influence parkquality:
-#### 1. Amount of heavily polluted sites nearby
-#### 2. Amount of green space nearby (parks)
-#### 3. Amount of ’L’ train stops nearby
-#### 4. Amount of bus stations nearby. We used a subsection of bus stations that are considered EquitableTransit Oriented Development (ETOD) corridors
+1. Amount of heavily polluted sites nearby
+2. Amount of green space nearby (parks)
+3. Amount of ’L’ train stops nearby
+4. Amount of bus stations nearby. We used a subsection of bus stations that are considered EquitableTransit Oriented Development (ETOD) corridors.
 
