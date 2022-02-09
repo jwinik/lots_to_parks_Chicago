@@ -24,7 +24,6 @@ import seaborn as sns
 
 
 PATH =  os.path.abspath(os.getcwd())
-PATH = r"/Users/isabellehirschy/Documents/Harris/final-project-final-project-izzie-kashif-jason/"
 # ------------------------------------------------------------------------------
 # ------------------------------ FUNCTIONS -------------------------------------
 # ------------------------------------------------------------------------------
